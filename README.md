@@ -10,4 +10,5 @@ The current Python implementation uses a straightforward DFT (Discrete Fourier T
 ### Song Files 
 - Music_1 : Mozart – Eine Kleine Nachtmusik – Serenade In G Major
 - Music_2 : Vivaldo’s Spring From The Four Seasons-Allegro
--- The files where taken from  https://www.chosic.com/ the files are copyright free.
+-  The files where taken from  https://www.chosic.com/ .
+   The files are copyright free.
